@@ -1,0 +1,76 @@
+Number of data rows: 223462
+
+Columns in the DataFrame:
+path_to_image, Enlarged Cardiomediastinum, Cardiomegaly, Lung Opacity, Lung Lesion, Edema, Consolidation, Pneumonia, 
+Atelectasis, Pneumothorax, Pleural Effusion, Pleural Other, Fracture, Support Devices, No Finding
+
+Value Counts for Each Column (excluding 'path_to_image'):
+
+Column: Enlarged Cardiomediastinum
+ 0.0    22522
+-1.0    15021
+ 1.0     7559
+
+Column: Cardiomegaly
+ 1.0    30558
+ 0.0    16160
+-1.0     3921
+
+Column: Lung Opacity
+ 1.0    102950
+ 0.0      5081
+-1.0       330
+
+Column: Lung Lesion
+ 1.0    9368
+-1.0    1557
+ 0.0    1349
+
+Column: Edema
+ 1.0    53011
+ 0.0    21229
+-1.0    12217
+
+Column: Consolidation
+ 0.0    31452
+-1.0    26627
+ 1.0    13702
+
+Column: Pneumonia
+-1.0    19367
+ 1.0     4847
+ 0.0     3322
+
+Column: Atelectasis
+-1.0    34401
+ 1.0    33851
+ 0.0      727
+
+Column: Pneumothorax
+ 0.0    58631
+ 1.0    17879
+-1.0     2418
+
+Column: Pleural Effusion
+ 1.0    89267
+ 0.0    36290
+-1.0     7614
+
+Column: Pleural Other
+ 1.0    3957
+-1.0    2724
+ 0.0     134
+
+Column: Fracture
+ 1.0    8706
+ 0.0    3927
+-1.0     494
+
+Column: Support Devices
+ 1.0    115891
+ 0.0      3978
+-1.0        54
+
+Column: No Finding
+1.0    21259
+
